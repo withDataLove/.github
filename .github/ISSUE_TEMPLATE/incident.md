@@ -1,7 +1,7 @@
 ---
-name: Incident report
-about: Create a report to help us improve
-title: '[Incident Report]'
+name: Incident
+about: Create a report regarding an incident
+title: '[Incident]'
 
 ---
 ## Incident Details:
