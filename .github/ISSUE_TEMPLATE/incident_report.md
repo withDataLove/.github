@@ -1,5 +1,5 @@
 ---
-name: Incident
+name: Incident 
 about: Create a report regarding an incident
 title: '[Incident]'
 
