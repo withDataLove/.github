@@ -1,7 +1,7 @@
 ---
 name: Incident report
 about: Create a report regarding an incident
-title: '[Incident Report]'
+title: '[INCIDENT REPORT]'
 
 ---
 ## Incident Details:
