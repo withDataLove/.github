@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Create a suggestion topic
-title: '[Suggestion]'
+title: '[SUGGESTION]'
 
 ---
 
