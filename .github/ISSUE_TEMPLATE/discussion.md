@@ -1,11 +1,11 @@
 ---
-name: Data Model Discussion
-about: Issue template for discussion data model issues
-title: "[DATA MODEL DISCUSSION]"
+name: Discussion
+about: Issue template for discussion general issues
+title: "[DISCUSSION]"
 
 ---
 
-# Data Model Discussion
+# Discussion
 
 ## Summary of the topic
 
